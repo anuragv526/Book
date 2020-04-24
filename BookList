@@ -1,5 +1,4 @@
-[
-{
+[{
 id: 1,
 Title: "C++",
 Author: "xyz",
@@ -20,5 +19,4 @@ Publisher: "abc",
 Price: 100,
 Genre: "abc",
 Format: "abc"
-}
-]
+}]
